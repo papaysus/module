@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantityCalculator", "QuantityCalculator\QuantityCalculator.csproj", "{EF9A9861-643B-43FF-9A27-11532E9D8AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9A9861-643B-43FF-9A27-11532E9D8AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9A9861-643B-43FF-9A27-11532E9D8AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9A9861-643B-43FF-9A27-11532E9D8AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9A9861-643B-43FF-9A27-11532E9D8AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEC2359C-6485-4C15-B6C0-A353CD0A2D65}
+	EndGlobalSection
+EndGlobal
